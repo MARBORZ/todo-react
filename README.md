@@ -1,18 +1,18 @@
 # Todo React Application
 
-Modern todo list application built with React 19, Vite, and Feature-Sliced Design architecture.
+Todo app with React 19, Vite, and Feature-Sliced Design.
 
 ## Features
 
-- ✅ Create, read, update, and delete tasks
-- 🔍 Real-time search and filtering
-- 📊 Task statistics (completed/total)
-- 🎯 Scroll to first incomplete task
-- ✨ Smooth animations for task operations
-- 💾 LocalStorage persistence (production)
-- 🔌 REST API integration demo (development)
-- 🎨 Custom routing without external libraries
-- 📱 Responsive design
+- ✅ Create, edit, delete tasks
+- 🔍 Search and filter
+- 📊 Task stats (completed/total)
+- 🎯 Auto-scroll to first incomplete task
+- ✨ Task animations
+- 💾 LocalStorage (production mode)
+- 🔌 REST API demo (development mode)
+- 🎨 Custom router (no external libs)
+- 📱 Responsive
 
 ## Tech Stack
 
