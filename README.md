@@ -1,12 +1,13 @@
 # todo-react
 
-Todo list in React 19 and Vite, structured with Feature-Sliced Design. Add, edit, delete, search and filter tasks.
+Todo app with React 19 and Vite. Add, edit, delete, search and filter tasks. Built to practice Feature-Sliced Design.
 
-In development it talks to a fake REST API (`json-server` with `db.json5`); in the production build it stores tasks in localStorage. Routing is a small hand-written router instead of a library.
+In dev mode it uses a fake REST API (`json-server` + `db.json5`), in production tasks are saved in localStorage. Router is written by hand, no library.
 
 ## Run
 
 ```bash
 npm install
 npm run dev
+npm run server
 ```
